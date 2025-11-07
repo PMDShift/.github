@@ -1,6 +1,6 @@
 # PMD: Shift!
 
-Welcome to **PMD: Shift!**, an experimental proof-of-concept fan project, intended to explore the world of Pokemon Mystery Dungeon (PMD) as a community developed multiplayer online game.
+Welcome to **PMD: Shift!**, an experimental proof-of-concept fan project, intended to explore the world of PMD as a community developed multiplayer online game.
 
 ## Get Started
 
